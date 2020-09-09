@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-fullscreen": {
+      "PACKAGE_NAME": "lalatv.game.babyshark"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "lalatv.game.babyshark"
+    }
+  },
+  "dependent_plugins": {}
+}
